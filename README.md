@@ -14,11 +14,11 @@ All personally identifying information has been removed from the data.
 
 7.	__arrival_date_day_of_month__ - Day of arrival date
 8.	__stays_in_weekend_nights__ - Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel
-9.	__ stays_in_week_nights__ - Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel
-10.	__adults __ - Number of adults
+9.	__stays_in_week_nights__ - Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel
+10.	__adults__ - Number of adults
 11.	__children__ - Number of children
 12.	__babies__ - Number of children
-13.	__ meal__ - Type of meal booked. Categories are presented in standard hospitality meal packages.
+13.	__meal__ - Type of meal booked. Categories are presented in standard hospitality meal packages.
   <br> - Undefined/SC – no meal package
   <br> - BB – Bed & Breakfast   
   <br> - HB – Half board (breakfast and one other meal – usually dinner)
